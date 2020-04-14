@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "719683951396",
+    "firebase_url": "https://okapp-f5075.firebaseio.com",
+    "project_id": "okapp-f5075",
+    "storage_bucket": "okapp-f5075.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719683951396:android:d83e61e01cec8d0af331b1",
+        "android_client_info": {
+          "package_name": "com.rajaman.okapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719683951396-p5ml50lf0ldpfp9ou1esv9obq2qi3cvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoE8th2RwetmxGkukHKT-HJYfT9rCrvOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719683951396-p5ml50lf0ldpfp9ou1esv9obq2qi3cvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

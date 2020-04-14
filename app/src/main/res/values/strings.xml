@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OkApp</string>
+
+    <string-array name="sources">
+        <item>varanasi</item>
+    </string-array>
+
+    <string-array name="dess">
+        <item>Delhi</item>
+    </string-array>
+</resources>
